@@ -1,0 +1,24 @@
+genre_id,label,parent_genre,description,examples,status
+GEN000,Communication,,,Root concept,active
+GEN100,Broadcast News,GEN000,Scheduled news bulletin,Daily news broadcasts,active
+GEN110,News Bulletin,GEN100,Standard television or radio news bulletin,DD News Sanskrit Vārtā,active
+GEN120,News Analysis,GEN100,Extended discussion or analysis of current affairs,Current affairs programme,planned
+GEN200,Conversation,GEN000,Interactive spoken communication,Everyday conversation,active
+GEN210,Interview,GEN200,Structured question and answer interaction,Recorded interview,active
+GEN220,Discussion,GEN200,Multi-participant discussion,Panel discussion,planned
+GEN300,Lecture,GEN000,Formal instructional discourse,Public lecture,active
+GEN310,Academic Lecture,GEN300,University or scholarly lecture,Conference talk,active
+GEN320,Religious Discourse,GEN300,Spiritual or philosophical discourse,Pravacana,planned
+GEN400,Sports Commentary,GEN000,Live commentary during sporting events,Sanskrit cricket commentary,active
+GEN500,Children's Media,GEN000,Content primarily intended for children,Storytelling videos,active
+GEN510,Children's Story,GEN500,Narrative storytelling,Animated stories,active
+GEN520,Educational Content,GEN500,Educational programming for children,Learning videos,planned
+GEN600,Film,GEN000,Dramatic audiovisual production,Short films,active
+GEN610,Drama,GEN600,Stage or screen dramatic performance,Sanskrit drama,planned
+GEN700,Literature,GEN000,Published literary works,Modern Sanskrit novels,active
+GEN710,Novel,GEN700,Extended prose fiction,Adhunik Sanskrit novels,active
+GEN720,Poetry,GEN700,Verse composition,Modern poetry,active
+GEN730,Short Story,GEN700,Short fictional narrative,Magazine fiction,planned
+GEN800,Digital Media,GEN000,Born-digital communication,YouTube channels,planned
+GEN810,Podcast,GEN800,Audio-first digital publication,Sanskrit podcast,planned
+GEN820,Social Media,GEN800,Short-form online communication,X posts,planned
